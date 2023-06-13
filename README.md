@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakciceko&label=Profile%20views&color=0e75b6&style=flat" alt="burakciceko" /> </p>
 
-- 🔭 I’m currently working on [@neon-apps](@neon-apps)
+- 🔭 I’m currently working on [NeonApps](https://github.com/neon-apps)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
